@@ -37,4 +37,4 @@ The core functionality of the file integrity checker will revolve around the fol
 In summary, this task involves designing and implementing a Python script that leverages the hashlib library to create a file integrity checker. The script will take a list of files, calculate their initial cryptographic hashes, periodically recalculate the hashes, and report any discrepancies that indicate a modification has occurred. This tool will be valuable for anyone needing to ensure the integrity and authenticity of their digital files. The focus will be on accuracy, efficiency in handling potentially large files, and clear reporting of any detected changes.                                                                                                                     
 
 
-**output**: <img width="775" alt="Image" src="https://github.com/user-attachments/assets/1cdaf3fc-6ddb-4dcf-a088-5186a74a386c" />
+**OUTPUT**: <img width="775" alt="Image" src="https://github.com/user-attachments/assets/1cdaf3fc-6ddb-4dcf-a088-5186a74a386c" />
