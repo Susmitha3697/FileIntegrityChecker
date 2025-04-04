@@ -1,10 +1,18 @@
-# FileIntegrityChecker                                                                                                                                                            
+# FileIntegrityChecker                                                                                                                                                        
+
+
 **COMPANY**: CODTECH IT SOLUTIONS                                                                                                                                                 
+
 **NAME**: GOGULA SUSMITHA                                                                                                                                                         
+
 **INTERN ID**: CT12WKPH                                                                                                                                                           
+
 **DOMAIN**: CYBER SECURITY & ETHICAL HACKING                                                                                                                                      
+
 **BATCH DURATION**: January 10th, 2025 to April 10th, 2025                                                                                                                       
+
 **MENTOR**: Neela Santhosh Kumar                                                                                                                                                  
+
 **DESCRIPTION OF THE TASK**:                                                                                                                                                      
 The primary goal of this task is to develop a robust and user-friendly Python script that functions as a file integrity checker. This tool will monitor a specified set of files for any modifications by employing the concept of cryptographic hashing. By calculating and comparing hash values of files at different points in time, the script will be able to detect unauthorized or accidental changes to their content. This is crucial for ensuring data integrity, verifying that files remain unaltered over time, and potentially identifying malicious tampering.
 
@@ -27,3 +35,6 @@ The core functionality of the file integrity checker will revolve around the fol
 **Error Handling**: The script should include robust error handling to gracefully manage potential issues such as files not being found, permission errors when trying to read files, or other unexpected exceptions. Meaningful error messages should be provided to the user to help diagnose any problems.
 
 In summary, this task involves designing and implementing a Python script that leverages the hashlib library to create a file integrity checker. The script will take a list of files, calculate their initial cryptographic hashes, periodically recalculate the hashes, and report any discrepancies that indicate a modification has occurred. This tool will be valuable for anyone needing to ensure the integrity and authenticity of their digital files. The focus will be on accuracy, efficiency in handling potentially large files, and clear reporting of any detected changes.                                                                                                                     
+
+
+**output**: <img width="775" alt="Image" src="https://github.com/user-attachments/assets/1cdaf3fc-6ddb-4dcf-a088-5186a74a386c" />
